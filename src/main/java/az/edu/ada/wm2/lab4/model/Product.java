@@ -2,7 +2,7 @@ package main.java.az.edu.ada.wm2.lab4.model;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
-import az.edu.ada.wm2.lab4.model.Product;
+import az.edu.ada.wm2.lab4.model;
 import java.util.UUID;
 
 public class Product {
